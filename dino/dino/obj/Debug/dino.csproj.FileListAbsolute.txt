@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\dino\dino\bin\Debug\dino.exe.config
+C:\Users\user\Desktop\dino\dino\bin\Debug\dino.exe
+C:\Users\user\Desktop\dino\dino\bin\Debug\dino.pdb
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.Form1.resources
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.Properties.Resources.resources
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.csproj.GenerateResource.cache
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.exe
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.pdb
+C:\Users\user\Desktop\dino\dino\obj\Debug\dino.exe.config
